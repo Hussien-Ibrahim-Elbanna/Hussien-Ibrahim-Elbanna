@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-Hussien%20Ibrahim%20Elbanaa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:helbanna184@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-salah.helbanna184@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-helbanna184@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 ---
 
