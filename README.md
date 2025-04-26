@@ -22,9 +22,12 @@
 
 ### Connect with Me :
 
-<a href=https:ww.linkedin.com/in/hussein-ibrahim-elbanna-b92108230
-
-<a href=https:helbanna184@gmail.com
+<a href="https://linkedin.com/in/hussein-ibrahim-elbanna" target="_blank">
+  <img src="https://img.shields.io/badge/-Salah%20Eddine%20Zouagri-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:helbanna184@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-salah.zouagri98@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
 ---
 
 ### 🛠 &nbsp;Tech Stack
