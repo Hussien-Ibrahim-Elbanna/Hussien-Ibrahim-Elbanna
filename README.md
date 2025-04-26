@@ -22,9 +22,9 @@
 
 ### Connect with Me :
 
-<a href=https://www.linkedin.com/messaging/thread/2-ZWY4YWRlYzEtZTk1My00N2Y0LWI3MTUtMzlhM2VkMmUwMzNlXzEwMA==/
+<a href=https:ww.linkedin.com/in/hussein-ibrahim-elbanna-b92108230
 
-<a href=https://myaccount.google.com/?gar=WzEyMF0&hl=ar&utm_source=OGB&utm_medium=act
+<a href=https:helbanna184@gmail.com
 ---
 
 ### 🛠 &nbsp;Tech Stack
