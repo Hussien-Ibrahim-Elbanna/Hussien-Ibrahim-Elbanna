@@ -28,7 +28,7 @@
 <a href="mailto:helbanna184@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-helbanna184@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
----
+
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
